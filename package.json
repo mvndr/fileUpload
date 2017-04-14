@@ -5,9 +5,9 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/houssem-yahiaoui/mongdb-gridfs-demo.git"
+    "url": "git+https://github.com/Mvndr4u/fileUpload.git"
   },
-  "author": "Houssem Yahiaoui <houssem.yahiaoui.ai@gmail.com>",
+  "author": "Manvender Singh Rathore <manvender@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "busboy-body-parser": "^0.2.0",
