@@ -13,7 +13,7 @@ let gfs;
 conn.once("open", () => {
     gfs = Grid(conn.db);
     router.get('/', (req, res) => {
-      res.send('Hello Housem !');
+      res.send('Manvender Singh Rathore !');
     });
     router.get('/img/:imgname', (req, res) => {
         gfs.files.find({
